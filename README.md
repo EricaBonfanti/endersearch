@@ -71,9 +71,25 @@ O desenvolvimento deste portal envolveu a aplicação prática de diversas tecno
 
 ## 📖 Manual do Usuário
 
-Acesse a documentação completa do portal, incluindo tutoriais de uso, sistema de busca e funcionalidades avançadas, através do manual criado no Canva:
+<div align="center">
 
-[**🟩 Acessar Manual do Usuário (PDF)**](docs/manualsearch.pdf)
+### 💚 Guia Visual do Aventureiro
+
+Abaixo, um guia rápido e visual sobre como navegar no **Ender Search** e encontrar o caminho para a vitória!
+
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/bdwSPCDLQdOmnTOF.webp" alt="Capa do Manual do Usuário" width="80%">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/OPYRmfezMqkXXonO.webp" alt="Página Inicial do Ender Search" width="80%">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/ibjDxssyTmAeXKAv.webp" alt="Página de Pesquisa do Ender Search" width="80%">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/gGTxyqNdKGnSOxmo.webp" alt="Realizando a Pesquisa no Ender Search" width="80%">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663243882566/xwFCDnoJMuKSeerR.webp" alt="Conferindo as Informações no Ender Search" width="80%">
+
+---
+
+### 💚 Parabéns, Aventureiro(a)!
+
+Você agora entende perfeitamente como a plataforma funciona e como navegar nela, garantindo que poderá utilizar todo o potencial do **Ender Search** em suas expedições. Lembre-se sempre: A Pedra do Ender sempre faz você encontrar o caminho! Boa sorte em sua jornada.
+
+</div>
 
 ---
 
