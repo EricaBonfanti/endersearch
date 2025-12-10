@@ -6,8 +6,7 @@
 
 <img src="https://img.shields.io/badge/Status-Protótipo%20Concluído-00FF00?style=for-the-badge&labelColor=000000" alt="Status do Projeto Concluído">
 <img src="https://img.shields.io/badge/Front--end-HTML%20%7C%20CSS%20%7C%20JS-00FF00?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000" alt="Tecnologias Front-end">
-<img src="https://img.shields.io/badge/Back--end-PHP-00FF00?style=for-the-badge&logo=php&logoColor=000000&labelColor=000000" alt="Tecnologia Back-end PHP">
-<img src="https://img.shields.io/badge/Banco%20de%20Dados-MySQL-00FF00?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=000000" alt="Banco de Dados MySQL">
+
 
 </div>
 
